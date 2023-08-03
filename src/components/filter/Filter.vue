@@ -195,6 +195,7 @@ export default {
 
 
 .filter-button {
+  z-index: 9999;
   font-size: 1.5rem;
   position: relative;
   width: 2.5rem;
