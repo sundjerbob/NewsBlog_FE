@@ -9,6 +9,7 @@ import LogoutPage from "@/views/LogoutPage.vue";
 import {currSession, roles, status} from "@/config/session";
 import CategoriesPage from "@/views/CategoriesPage.vue";
 
+
 // App routes
 const routes = [
     {
